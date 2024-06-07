@@ -1,6 +1,6 @@
 # used-refurbished-device-pricing
 
-** Overview:
+# Overview:
 
 This project aims to develop a dynamic pricing strategy for used and refurbished phones and tablets using machine learning techniques. The project was conducted for ReCell, a startup in the used device market, to analyze data and build a linear regression model to predict the price of pre-owned devices and identify factors influencing their pricing.
 
