@@ -19,13 +19,18 @@ The dataset used in this project contains various attributes of used and refurbi
 ** Recommendations:
 
 The project yielded several key findings and recommendations for ReCell:
+
 The developed model explained ~84% of the variation in the data and demonstrated good predictive performance.
+
 Factors such as RAM capacity, camera specifications, release year, and connectivity options significantly influence the pricing of pre-owned devices.
+
 Marketing efforts should emphasize the longevity of pre-owned devices and their gradual reduction in price over time.
+
 ReCell should focus on attracting sellers of newer devices with good camera resolutions and consider expanding into other used gadget markets.
 
 ** Future Directions:
 
 Potential future directions for this project include:
 Collecting additional data on customer demographics to gain better insights into customer preferences.
+
 Expanding the product range to include other used gadgets, such as smartwatches.
